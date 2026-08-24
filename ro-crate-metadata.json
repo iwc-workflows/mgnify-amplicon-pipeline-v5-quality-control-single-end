@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2026-08-03T08:17:51.913466",
+            "datePublished": "2026-08-24T10:47:41.255476",
             "hasPart": [
                 {
                     "@id": "mgnify-amplicon-pipeline-v5-quality-control-single-end.ga"
@@ -78,7 +78,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/mgnify-amplicon-pipeline-v5-quality-control-single-end",
-            "version": "0.4"
+            "version": "0.5"
         },
         {
             "@id": "#galaxy",
@@ -154,7 +154,7 @@
             "conformsTo": {
                 "@id": "https://w3id.org/ro/terms/test#PlanemoEngine"
             },
-            "engineVersion": ">=0.75.45"
+            "engineVersion": ">=0.75.47"
         },
         {
             "@id": "https://w3id.org/ro/terms/test#PlanemoEngine",
